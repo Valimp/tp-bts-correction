@@ -82,8 +82,13 @@ body {
 
 .section-content-text ul {
   padding-left: 20px;
+  list-style-type: none;
 }
 
 .section-content-text ul li {
   margin-bottom: 8px;
+}
+
+.section-content-text ul li strong {
+  font-weight: bold;
 }
